@@ -1,3 +1,4 @@
+//to add two integers
 import java.util.Scanner;
 public class Task0_2 {
     public static void main(String[ ] args)
